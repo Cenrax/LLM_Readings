@@ -1,8 +1,8 @@
 # LLM_Readings
 
 ## LLM Progress and Benchmarking
-| Paper Name | Month and Year | Small Description | Tag Words |
-|------------|----------------|-------------------|-----------|
+| Paper Name | Month and Year | Small Description | Tag Words | Annotated Paper Link
+|------------|----------------|-------------------|-----------|--------|
 | Yet another detailed paper title goes here | Mar 2023 | Brief but comprehensive description of the paper's content, its scope, and its significance in the field. | keyword5, keyword6 |
 
 
