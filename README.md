@@ -8,7 +8,7 @@
 ## LLM Inferencing
 | Paper Name | Month and Year | Small Description | Tag Words | Annotated Paper Link
 |------------|----------------|-------------------------|-----------|--------|
-| PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU | Dec 2023 | It exploits the high locality of neuron activation in LLMs, characterized by a power-law distribution, to reduce GPU memory demands and CPU-GPU data transfers. It uses a GPU-CPU hybrid execution model, adaptive predictors, and neuron-aware sparse operators to optimize neuron activation efficiency. | GPU-CPU Hybrid Execution, Adaptive Predictors |
+| PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU | Dec 2023 | It exploits the high locality of neuron activation in LLMs, characterized by a power-law distribution, to reduce GPU memory demands and CPU-GPU data transfers. It uses a GPU-CPU hybrid execution model, adaptive predictors, and neuron-aware sparse operators to optimize neuron activation efficiency. | **GPU-CPU Hybrid Execution**, **Adaptive Predictors** |
 | Yet another detailed paper title goes here | Mar 2023 | Brief but comprehensive description of the paper's content, its scope, and its significance in the field. | keyword5, keyword6 |
 
 ## LLM Finetuning
