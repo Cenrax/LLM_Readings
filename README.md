@@ -3,10 +3,10 @@
 ## LLM Progress and Benchmarking
 | Paper Name | Month and Year | Small Description | Tag Words | Annotated Paper Link
 |------------|----------------|-------------------|-----------|--------|
-| Yet another detailed paper title goes here | Mar 2023 | Brief but comprehensive description of the paper's content, its scope, and its significance in the field. | keyword5, keyword6 |
+| CogAgent: A Visual Language Model for GUI Agents | Dec 2023 | introduces CogAgent, an 18-billion parameter visual language model (VLM) specializing in GUI understanding and navigation. It emphasizes the model's ability to understand and interact with graphical user interfaces, which is a limitation in existing large language models like ChatGPT. CogAgent employs both low-resolution and high-resolution image encoders, enabling it to recognize tiny page elements and text in graphical user interfaces. The paper discusses the model's architecture, training data, and performance on various benchmarks, including text-rich and general VQA benchmarks and GUI navigation tasks. |  **Visual Language Model (VLM)**, **Web and Android GUIs**, **High and Low Image Resolution**|
 
 ## LLM Inferencing
-| Paper Name | Month and Year | Small Description | Tag Words | Annotated Paper Link
+| Paper Name | Month and Year | Small Description | Tag Words | Annotated Paper Link 
 |------------|----------------|-------------------------|-----------|--------|
 | PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU | Dec 2023 | It exploits the high locality of neuron activation in LLMs, characterized by a power-law distribution, to reduce GPU memory demands and CPU-GPU data transfers. It uses a GPU-CPU hybrid execution model, adaptive predictors, and neuron-aware sparse operators to optimize neuron activation efficiency. | **GPU-CPU Hybrid Execution**, **Adaptive Predictors** |
 | Yet another detailed paper title goes here | Mar 2023 | Brief but comprehensive description of the paper's content, its scope, and its significance in the field. | keyword5, keyword6 |
